@@ -28,7 +28,7 @@ ul {
   color: var(--color-primary-light);
 }
 .link:hover {
-color: var(--color-brand-light);
+  color: var(--color-brand-light);
 }
 /* hero-section */
 .hero-title {
